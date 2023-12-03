@@ -3,7 +3,7 @@ A webfejlesztés tantárgy beadandója
 
 1. Seszták Lóránt
 
-2. https://github.com/...
+2. https://sesztaklorant.github.io/webfejlesztes/
 
 3. A weboldalam egy egri lovastanya honlapja. Ezen megtalálhatóak olyan információk róla, mint a tanya különböző szolgáltatásai, elérhetőségei, árai.
 
